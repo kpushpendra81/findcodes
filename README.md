@@ -9,4 +9,4 @@ Main branch of findcodes.net
 2. User can run his/her programm in real time and save that programm to future use.
 3. There is facility to give test of that pirticular topic or language.
 4. Can find bunch of code for pirticular work or task in programming.
-5. Make his/her global ranking of pirticular programming field.
+6. test git class
